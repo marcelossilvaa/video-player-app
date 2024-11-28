@@ -1,0 +1,19 @@
+<header class="bg-[#212121] p-4 shadow-md h-[6vh]">
+  <div class="container mx-auto flex items-center justify-between">
+    <!-- Logo ou nome do app -->
+    <div class="text-white text-xl font-bold">
+      <a href="/"><img src="group.png" width="90" height="20" title="logo" alt="logo"></a>
+    </div>
+
+    <nav class="space-x-4">
+      <a href="/home" class="text-white hover:text-gray-300">Home</a>
+      
+      <!-- O link de Player só aparece se o usuário estiver logado -->
+      <a *ngIf="isLoggedIn" href="/video-player" class="text-white hover:text-gray-300">Player</a>
+
+      <!-- Link de Login/Logout -->
+      <a *ngIf="!isLoggedIn" href="/login" class="text-white hover:text-gray-300">Login</a>
+      <a *ngIf="isLoggedIn" (click)="logout()" href="javascript:void(0);" class="text-white hover:text-gray-300">Logout</a>
+    </nav>
+  </div>
+</header>

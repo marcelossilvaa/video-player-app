@@ -3,17 +3,66 @@
     {
       "id": 1,
       "title": "Video 1",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_1"
+      "url": "https://www.youtube.com/watch?v=a1x0Iv-hEM0",
+      "category": "Categoria A",
+      "description": "Descrição do vídeo 1",
+      "author": "Autor 1"
     },
     {
       "id": 2,
       "title": "Video 2",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_2"
+      "url": "https://www.youtube.com/watch?v=lxFtaegKxFc",
+      "category": "Categoria B",
+      "description": "Descrição do vídeo 2",
+      "author": "Autor 2"
     },
     {
       "id": 3,
       "title": "Video 3",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID_3"
+      "url": "https://www.youtube.com/watch?v=2Ws_5-hiqao",
+      "category": "Categoria C",
+      "description": "Descrição do vídeo 3",
+      "author": "Autor 3"
+    },
+    {
+      "id": 4,
+      "title": "Video 3",
+      "url": "https://www.youtube.com/watch?v=2Ws_5-hiqao",
+      "category": "Categoria C",
+      "description": "Descrição do vídeo 3",
+      "author": "Autor 3"
+    },
+    {
+      "id": 5,
+      "title": "Video 1",
+      "url": "https://www.youtube.com/watch?v=a1x0Iv-hEM0",
+      "category": "Categoria A",
+      "description": "Descrição do vídeo 1",
+      "author": "Autor 1"
+    },
+    {
+      "id": 6,
+      "title": "Video 2",
+      "url": "https://www.youtube.com/watch?v=lxFtaegKxFc",
+      "category": "Categoria B",
+      "description": "Descrição do vídeo 2",
+      "author": "Autor 2"
+    },
+    {
+      "id": 7,
+      "title": "Video 3",
+      "url": "https://www.youtube.com/watch?v=2Ws_5-hiqao",
+      "category": "Categoria C",
+      "description": "Descrição do vídeo 3",
+      "author": "Autor 3"
+    },
+    {
+      "id": 8,
+      "title": "Video 3",
+      "url": "https://www.youtube.com/watch?v=2Ws_5-hiqao",
+      "category": "Categoria C",
+      "description": "Descrição do vídeo 3",
+      "author": "Autor 3"
     }
   ]
 }
